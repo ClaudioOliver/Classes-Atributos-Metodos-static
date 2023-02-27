@@ -1,0 +1,15 @@
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\bin\Debug\net6.0\CursoSeq04.exe
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\bin\Debug\net6.0\CursoSeq04.deps.json
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\bin\Debug\net6.0\CursoSeq04.runtimeconfig.json
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\bin\Debug\net6.0\CursoSeq04.dll
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\bin\Debug\net6.0\CursoSeq04.pdb
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\obj\Debug\net6.0\CursoSeq04.csproj.AssemblyReference.cache
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\obj\Debug\net6.0\CursoSeq04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\obj\Debug\net6.0\CursoSeq04.AssemblyInfoInputs.cache
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\obj\Debug\net6.0\CursoSeq04.AssemblyInfo.cs
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\obj\Debug\net6.0\CursoSeq04.csproj.CoreCompileInputs.cache
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\obj\Debug\net6.0\CursoSeq04.dll
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\obj\Debug\net6.0\refint\CursoSeq04.dll
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\obj\Debug\net6.0\CursoSeq04.pdb
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\obj\Debug\net6.0\CursoSeq04.genruntimeconfig.cache
+D:\Dev\PROJETOS\Curso C# Completo\CursoSeq04\CursoSeq04\obj\Debug\net6.0\ref\CursoSeq04.dll
